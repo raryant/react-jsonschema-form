@@ -60,12 +60,12 @@ Exports `material-ui` theme, fields and widgets for `react-jsonschema-form`.
 
 ### Prerequisites
 
-- `@material-ui/core >= 4.2.0` ([in 4.2.0, the `slider` component was added to the core](https://github.com/mui-org/material-ui/pull/16416))
-- `@material-ui/icons`
+- `@mui/material >= 4.2.0` ([in 4.2.0, the `slider` component was added to the core](https://github.com/mui-org/material-ui/pull/16416))
+- `@mui/icons-material`
 - `@rjsf/core >= 2.0.0`
 
 ```bash
-yarn add @material-ui/core @material-ui/icons @rjsf/core
+yarn add @mui/material @mui/icons-material @rjsf/core
 ```
 
 ### Installation
