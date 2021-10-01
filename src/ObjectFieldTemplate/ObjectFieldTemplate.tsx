@@ -1,7 +1,7 @@
 import React from 'react';
 
 import Grid from '@mui/material/Grid';
-import { makeStyles } from '@material-ui/styles';
+import { makeStyles } from '@mui/styles';
 
 import { ObjectFieldTemplateProps } from '@rjsf/core';
 import { utils } from '@rjsf/core';
